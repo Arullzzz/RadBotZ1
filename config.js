@@ -1,7 +1,7 @@
-global.linkGC = [''] // ganti jadi group lu
-global.owner = ['6289625556161'] // Put your number here
-global.mods = [''] // Want some help?
-global.prems = [''] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e'] // ganti jadi group lu
+global.owner = ['6285822347348'] // Put your number here
+global.mods = ['6285822347348'] // Want some help?
+global.prems = ['6285822347348'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -24,8 +24,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'CacaSepongPilar' // ganti aja
-global.author = 'BacotDeck' // ganti aja
+global.packname = 'ArullBotz' // ganti aja
+global.author = 'I love You🗿' // ganti aja
 
 // silakan di ganti klo mau
 global.wait = '_*tunggu..*_'
@@ -34,7 +34,7 @@ global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fi
 global.eror = '_*Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©Games ×͜×' //change the watermark (beberapa harus manual)
+global.watermark = '© ArullBotz ×͜×' //change the watermark (beberapa harus manual)
 global.version = '𝑩𝑶𝑻 @^1.1.4'
 global.ttq = `Thanks to:
 •Allah swt
@@ -72,7 +72,7 @@ global.sumberurl = 'https://instagram.com/rasel.ganz'
 global.deskripsiurl = 'Saya adalah Bot WhatsApp ×͜×.'
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 106 // The higher, The harder levelup
+global.multiplier = 9999 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
